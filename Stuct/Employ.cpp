@@ -3,11 +3,7 @@ and the employee’s compensation (in dollars; type float ).
 Ask the user to fill in this data for three employees, store it in three variables of type struct employeeType 
 and then display the information for each employee.
 */
-/*Create a structure called employeeType that contains two members: an employee number (type int ) 
-and the employee’s compensation (in dollars; type float ). 
-Ask the user to fill in this data for three employees, store it in three variables of type struct employeeType 
-and then display the information for each employee.
-*/
+
 #include<iostream>
 #include<iomanip>
 using namespace std;
